@@ -54,3 +54,17 @@ pip install -r requirements.txt
 
 运行：
 python mnist_experiment.py
+
+
+## 源码与预训练模型
+
+### GitHub源码
+
+https://github.com/MKYY-dev/pytorch-mnist-classification
+
+
+### 预训练模型下载
+
+mnist_model.pth：
+
+https://github.com/MKYY-dev/pytorch-mnist-classification/releases/download/v1.0/mnist_model.pth
