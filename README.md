@@ -23,14 +23,7 @@ http://yann.lecun.com/exdb/mnist/
 ## 模型结构
 
 本实验采用全连接神经网络：
-Flatten
-↓
-Linear(784,128)
-↓
-ReLU
-↓
-Linear(128,10)
-
+Flatten->Linear(784,128)->ReLU->Linear(128,10)
 
 
 ## 实验结果
